@@ -1,0 +1,11 @@
+html, body
+{
+background: red;
+margin:0;
+}
+
+li
+{
+display: block;
+float:left;
+}
